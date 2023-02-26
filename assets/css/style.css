@@ -1,13 +1,4 @@
-/**
-* Template Name: DevFolio - v4.10.0
-* Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   background-color: #f5f5f5;
   color: #4e4e4e;
@@ -456,9 +447,6 @@ a:hover {
   border-radius: 0.3rem;
 }
 
-/*--------------------------------------------------------------
-# Header
---------------------------------------------------------------*/
 #header {
   transition: all 0.5s;
   z-index: 997;
@@ -743,9 +731,6 @@ a:hover {
   display: block;
 }
 
-/*--------------------------------------------------------------
-# Hero Section
---------------------------------------------------------------*/
 .hero {
   height: 100vh;
   position: relative;
@@ -831,9 +816,6 @@ a:hover {
   color: #fff;
 }
 
-/*--------------------------------------------------------------
-# About
---------------------------------------------------------------*/
 .about-mf .box-shadow-full {
   padding-top: 4rem;
   padding-bottom: 4rem;
@@ -999,10 +981,6 @@ a:hover {
 .w-title {
   font-size: 1.2rem;
 }
-
-/*--------------------------------------------------------------
-# Portfolio Details
---------------------------------------------------------------*/
 .portfolio-details {
   padding-top: 40px;
 }
@@ -1065,9 +1043,6 @@ a:hover {
   padding: 0;
 }
 
-/*--------------------------------------------------------------
-# Testimonials
---------------------------------------------------------------*/
 .testimonial-box {
   color: #fff;
   text-align: center;
@@ -1136,9 +1111,6 @@ a:hover {
   background-color: #fff;
 }
 
-/*--------------------------------------------------------------
-# Contact
---------------------------------------------------------------*/
 .footer-paralax {
   padding: 4rem 0 0 0;
 }
